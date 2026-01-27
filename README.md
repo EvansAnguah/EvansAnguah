@@ -45,7 +45,11 @@ React • Tailwind CSS • Bootstrap • MySQL • SQLite
 ```
 Git • GitHub • VS Code • Figma • Tkinter
 ```
-
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-FF6F00?style=flat&logo=python&logoColor=white)
 
 ## Projects
 
